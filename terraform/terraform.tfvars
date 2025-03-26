@@ -1,6 +1,6 @@
 aws_region     = "us-east-1"
 ami_id         = "ami-0abcdef1234567890"
 instance_type  = "t2.micro"
-key_name       = "my-key-pair"
+key_name       = "newkeypairpublic"
 subnet_id      = "subnet-12345678"
 instance_name  = "my-ec2-instance"
